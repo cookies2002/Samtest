@@ -49,7 +49,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BQFQv9cAjFhrTFN9OdEmYXFRGssnypk-dXp93zCXmxcXkYuSdbN_Bsy4Mvof03oE6blNButi0FCY8oJ8_mEdikiwXydiikG7z8Q6tVEPaOW74FvpRI0j7fTsjCxVXwtypAoIEAZudxg50rKaggkGks3pl9ciVsGPCGbKoQb8FX2rNHij5CAV-o0VI0zAgqJ-cS8G7zWYCLjZ-0ABAaGP2PNDHN_4r6IS0K9dc7DVxnd764uUuBeCaC_UZWA-qcHREnOUeeXxedGae-1bv8vlczKu08BKsfj4_KoW3YP2XvWYvH7AFC6BNuW-hvxUiPI-TlbhSBrDUb2wOK2nVo7T9wdiSEVyiAAAAAHyl0_1AA",
+        "value": "BQFQv9",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -59,13 +59,13 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "samtestyf22",
         "required": true
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
-        "required": " -1003810962232"
+        "value": "-1003810962232",
+        "required": true
       }
     },
     "buildpacks": [
