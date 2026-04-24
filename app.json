@@ -49,7 +49,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BQFQv9",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
