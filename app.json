@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "22069207",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "6d33df9e82a922f66b5ad8e231743c02",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://drdoom2003p:drdoom2003p@cluster0.fnhjrtn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "YTPROXY_URL": {
@@ -44,28 +44,28 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "8062635043",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "",
+        "value": "BQFQv9cAjFhrTFN9OdEmYXFRGssnypk-dXp93zCXmxcXkYuSdbN_Bsy4Mvof03oE6blNButi0FCY8oJ8_mEdikiwXydiikG7z8Q6tVEPaOW74FvpRI0j7fTsjCxVXwtypAoIEAZudxg50rKaggkGks3pl9ciVsGPCGbKoQb8FX2rNHij5CAV-o0VI0zAgqJ-cS8G7zWYCLjZ-0ABAaGP2PNDHN_4r6IS0K9dc7DVxnd764uUuBeCaC_UZWA-qcHREnOUeeXxedGae-1bv8vlczKu08BKsfj4_KoW3YP2XvWYvH7AFC6BNuW-hvxUiPI-TlbhSBrDUb2wOK2nVo7T9wdiSEVyiAAAAAHyl0_1AA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
         "value": "",
-        "required": false
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
         "value": "",
-        "required": false
+        "required": true
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
         "value": "",
-        "required": true
+        "required": " -1003810962232"
       }
     },
     "buildpacks": [
